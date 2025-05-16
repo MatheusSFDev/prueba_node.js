@@ -9,8 +9,15 @@ nombre-repositorio/
 │
 ├── JavaScript/
 │   ├── main.js
-│   └── saludos.js
+│   ├── saludos.js
+│   ├── console.js
+│   ├── process.js
+│   ├── os.js
+│   ├── timers.js
+│   └── fs.js
+├── index.html
 └── README.md
+
 ```
 
 ## Tecnologías Utilizadas 💻

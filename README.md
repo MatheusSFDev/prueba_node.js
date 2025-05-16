@@ -9,7 +9,7 @@ nombre-repositorio/
 │
 ├── JavaScript/
 │   ├── main.js
-│   └── saludo.js
+│   └── saludos.js
 └── README.md
 ```
 

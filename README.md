@@ -7,7 +7,9 @@ Ejemplo de prueba de uso de Node.js
 ```
 nombre-repositorio/
 │
-├── main.js
+├── JavaScript/
+│   ├── main.js
+│   └── saludo.js
 └── README.md
 ```
 

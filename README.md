@@ -15,6 +15,13 @@ nombre-repositorio/
 │   ├── os.js
 │   ├── timers.js
 │   └── fs.js
+├── Prueba de JSON/
+│   ├── curso.json
+│   ├── package.json
+│   └── prueba_json.js
+├── Prueba de JSON/
+│   ├── package-lock.json
+│   └── package.json
 ├── index.html
 └── README.md
 

@@ -1,6 +1,7 @@
 const express = require("express");
-const {matematicas} = require("../datos/cursos.js").infoCursos;
 const router = express.Router();
+
+const {matematicas} = require("../Datos/cursos.js").infoCursos;
 
 router.get("", (req, res) => {
     res.send(JSON.stringify(matematicas));

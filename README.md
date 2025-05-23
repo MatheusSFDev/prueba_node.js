@@ -5,24 +5,48 @@ Ejemplo de prueba de uso de Node.js
 
 ## Estructura del Proyecto 📁
 ```
-nombre-repositorio/
+prueba-node.js/
 │
-├── JavaScript/
-│   ├── main.js
-│   ├── saludos.js
-│   ├── console.js
-│   ├── process.js
-│   ├── os.js
-│   ├── timers.js
-│   └── fs.js
-├── Prueba de JSON/
-│   ├── curso.json
-│   ├── package.json
-│   └── prueba_json.js
-├── Prueba de JSON/
+├── 1_Primer Programa/
+│   ├── 1_Main.js
+│   └── 2_Saludos.js
+├── 2_Modulos Node.js/
+│   ├── 1_Console.js
+│   ├── 2_Process.js
+│   ├── 3_OS.js
+│   ├── 4_Timers.js
+│   ├── 5_FS.js
+│   └── index.html
+├── 3_NPM/
+│   ├── info.txt
 │   ├── package-lock.json
 │   └── package.json
-├── index.html
+├── 4_Prueba de JSON/
+│   ├── Curso.json
+│   └── Prueba JSON.js
+├── 5_Eventos/
+│   ├── 1_Modulo Events.js
+│   ├── 2_Promesas.js
+│   ├── 3_Ejemplo Promesas.js
+│   ├── 4_Promesa catch().js
+│   └── 5_Async Await.js
+├── 6_Pedidos HTTP/
+│   ├── 3_Routing/
+│   │   ├── 1_Servidor.js
+│   │   ├── 2_Cursos.js
+│   │   └── 2_Prueba.http
+│   ├── 1_Primer Servidor.js
+│   └── 2_Modulo URL.js
+├── 7_Express/
+│   ├── node_modules/
+│   ├── Routers/
+│   │   ├── 1_Programacion.js
+│   │   └── 2_Matematicas.js
+│   ├── 1_Servidor.js
+│   ├── 2_InfoCursos.js
+│   ├── 3_Prueba.http
+│   ├── package-lock.json
+│   └── package.json
 └── README.md
 
 ```

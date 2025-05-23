@@ -1,0 +1,5 @@
+Para crear el package.json ejecutar en la terminal dentro del directorio:
+ -> npm init
+
+Links:
+ -> https://www.npmjs.com
